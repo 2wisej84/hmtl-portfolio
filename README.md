@@ -1,2 +1,2 @@
 # hmtl-portfolio
-First html project
+First html projects
